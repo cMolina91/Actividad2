@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad2Final</string>
+    <string name="categoria">Categoria</string>
+
+    <string-array name="Categoria">
+        <item>Seleccione</item>
+        <item>Abarrotes</item>
+        <item>Carnes</item>
+        <item>Verduras</item>
+    </string-array>
+</resources>
